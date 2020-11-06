@@ -5,6 +5,7 @@ public class Main {
         System.out.println(message);
         System.out.println(message.length());
 
+        System.out.println("test commit/push");
 
 
 
